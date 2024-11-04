@@ -1,0 +1,18 @@
+server:
+  port: 8289
+
+network: mainnet
+
+chains: [Bitcoin]
+
+walletnode:
+  btc:
+    rpc_url: 'nd-314-634-477.p2pify.com'
+    rpc_user: 'lucid-swanson'
+    rpc_pass: 'salon-ahead-vanish-dial-curdle-arise'
+    confirmations: 4
+    data_api_url: 'https://api.etherscan.io/api?'
+    data_api_key: 'HZEZGEPJJDA633N421AYW9NE8JFNZZC7JT'
+    data_api_token: ''
+    time_out: 100
+
